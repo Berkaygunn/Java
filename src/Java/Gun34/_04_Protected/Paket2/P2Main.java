@@ -1,6 +1,7 @@
 package Java.Gun34._04_Protected.Paket2;
 
-import Gun34._04_Protected.Paket1.P1Hayvan;
+
+import Java.Gun34._04_Protected.Paket1.P1Hayvan;
 
 public class P2Main {
     public static void main(String[] args) {

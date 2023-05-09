@@ -1,6 +1,6 @@
 package Java.Gun41;
 
-import Utility.MyFunc;
+import Java.Utility.MyFunc;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

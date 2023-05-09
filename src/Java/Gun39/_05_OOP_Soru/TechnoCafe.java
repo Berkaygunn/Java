@@ -1,6 +1,6 @@
 package Java.Gun39._05_OOP_Soru;
 
-import Utility.MyFunc;
+import Java.Utility.MyFunc;
 
 import java.util.ArrayList;
 import java.util.List;

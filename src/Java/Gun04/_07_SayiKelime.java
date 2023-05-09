@@ -5,7 +5,7 @@ public class _07_SayiKelime {
         // şu ana kadar, sayilari birbirine çevirdik
         // yazıların rakamlara çevrilmesi, rakamların yazıya çevrilmesi var
 
-        String ad="ismet";
+        String ad="berkay";
         String kelimeSayi="65";  // string halde , toplama gibi bir işleme giremez
 
         int sayiDeger= Integer.parseInt(kelimeSayi); // sayiya dönüşür

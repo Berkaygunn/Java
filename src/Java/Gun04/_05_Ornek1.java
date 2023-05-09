@@ -6,7 +6,7 @@ public class _05_Ornek1 {
         // değer atayınız ve birleştirerek ekrana yazdırınız.
         // İsmet Temur 5 A geçtiMi,   tamAd, sinif, sube, gectiMi
 
-        String tamAd="İsmet Temur";
+        String tamAd="Berkay Gün";
         int sinifNo=5;
         char subesi='A';
         boolean gectiMi=true;

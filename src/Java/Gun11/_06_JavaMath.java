@@ -18,6 +18,6 @@ public class _06_JavaMath {
         System.out.println("floor 3.1 = "+Math.floor(3.1));// bu rakamdan küçük en yakın tam sayı
         System.out.println("floor 3.5 = "+Math.floor(3.5));// bu rakamdan küçük en yakın tam sayı
 
-        int enb=Gun20._01_JavaMethod.enbBul(a,b);
+        int enb=Java.Gun20._01_JavaMethod.enbBul(a,b);
     }
 }
